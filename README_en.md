@@ -1,5 +1,5 @@
 # Wuzuniao (www.wuzuniao.com)
-![Wuzuniao logo](https://www.wuzuniao.com/images/logo_wuzuniao_com_s.png "logo")
+![Wuzuniao logo](images/logo_wuzuniao_com_s.png "logo")
 
 > **Language / 语言：** [简体中文](README.md) · [繁體中文](README_zh_TW.md) · English
 

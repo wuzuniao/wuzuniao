@@ -1,5 +1,5 @@
 # 無足鳥（www.wuzuniao.com）
-![無足鳥logo](https://www.wuzuniao.com/images/logo_wuzuniao_com_s.png "logo")
+![無足鳥logo](images/logo_wuzuniao_com_s.png "logo")
 
 > **語言 / Language：** [简体中文](README.md) · 繁體中文 · [English](README_en.md)
 
