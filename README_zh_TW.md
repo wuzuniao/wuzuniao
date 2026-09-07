@@ -36,5 +36,7 @@
 
 | 專案 | 說明 | 相關連結 |
 | :--- | :--- | :--- |
-| 無足鳥（藥，yao） | 適合於通用任務，定時提醒、打卡、記錄的微信小程式、多端APP。 | 專案位址：[https://github.com/wuzuniao/yao](https://github.com/wuzuniao/yao)<br>微信小程式：無足鳥按時吃藥打卡 |
+| 無足鳥（設計，DESIGN） | 無足鳥專案設計規範 | 專案位址：[https://github.com/wuzuniao/DESIGN](https://github.com/wuzuniao/DESIGN) |
+| 無足鳥（用戶，auth） | 無足鳥所有專案統一的使用者認證、授權、稽核系統 | 專案位址：[https://github.com/wuzuniao/auth](https://github.com/wuzuniao/auth)<br>網站位址：[https://auth.wuzuniao.com](https://auth.wuzuniao.com) |
+| 無足鳥（藥，yao） | 適合於通用任務，定時提醒、打卡、記錄的微信小程式、多端APP。 | 專案位址：[https://github.com/wuzuniao/yao](https://github.com/wuzuniao/yao)<br>網站位址：[https://yao.wuzuniao.com](https://yao.wuzuniao.com)<br>微信小程式：無足鳥按時吃藥打卡 |
 | 無足鳥（武，wu） |  |  |

@@ -36,5 +36,7 @@
 
 | Project | Description | Related Links |
 | :--- | :--- | :--- |
-| Wuzuniao (Medicine, yao) | Suitable for general tasks: a WeChat Mini Program and multi-platform App for scheduled reminders, check-ins, and record keeping. | Repository: [https://github.com/wuzuniao/yao](https://github.com/wuzuniao/yao)<br>WeChat Mini Program: 无足鸟按时吃药打卡 |
+| Wuzuniao (Design, DESIGN) | Design specification for the Wuzuniao projects | Repository: [https://github.com/wuzuniao/DESIGN](https://github.com/wuzuniao/DESIGN) |
+| Wuzuniao (User, auth) | Unified user authentication, authorization, and audit system for all Wuzuniao projects | Repository: [https://github.com/wuzuniao/auth](https://github.com/wuzuniao/auth)<br>Website: [https://auth.wuzuniao.com](https://auth.wuzuniao.com) |
+| Wuzuniao (Medicine, yao) | Suitable for general tasks: a WeChat Mini Program and multi-platform App for scheduled reminders, check-ins, and record keeping. | Repository: [https://github.com/wuzuniao/yao](https://github.com/wuzuniao/yao)<br>Website: [https://yao.wuzuniao.com](https://yao.wuzuniao.com)<br>WeChat Mini Program: 无足鸟按时吃药打卡 |
 | Wuzuniao (Martial, wu) |  |  |

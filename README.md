@@ -36,5 +36,7 @@
 
 | 项目 | 说明 | 相关链接 |
 | :--- | :--- | :--- |
-| 无足鸟（药，yao） | 适合于通用任务，定时提醒、打卡、记录的微信小程序、多端APP。 | 项目地址：[https://github.com/wuzuniao/yao](https://github.com/wuzuniao/yao)<br>微信小程序：无足鸟按时吃药打卡 |
+| 无足鸟（设计，DESIGN） | 无足鸟项目设计规范 | 项目地址：[https://github.com/wuzuniao/DESIGN](https://github.com/wuzuniao/DESIGN) |
+| 无足鸟（用户，auth） | 无足鸟所有项目统一的用户认证、授权、审计系统 | 项目地址：[https://github.com/wuzuniao/auth](https://github.com/wuzuniao/auth)<br>网站地址：[https://auth.wuzuniao.com](https://auth.wuzuniao.com) |
+| 无足鸟（药，yao） | 适合于通用任务，定时提醒、打卡、记录的微信小程序、多端APP。 | 项目地址：[https://github.com/wuzuniao/yao](https://github.com/wuzuniao/yao)<br>网站地址：[https://yao.wuzuniao.com](https://yao.wuzuniao.com)<br>微信小程序：无足鸟按时吃药打卡 |
 | 无足鸟（武，wu） |  |  |
