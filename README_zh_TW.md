@@ -21,7 +21,6 @@
 | 無足鳥（白，bai） |  |  |
 | 無足鳥（紅，hong） | 使用 HTML5+CSS3+JavaScript+PHP+MySQL 開發的資源共享系統，純古法手搓，保留了專案實現的設計、前後端聯調、debug等完整思路。<br>現已停止更新，僅保留專案原始碼，以供學習程式設計思路。簡單、實用。 | 專案位址：[https://github.com/wuzuniao/hong](https://github.com/wuzuniao/hong) |
 | 無足鳥（藍，lan） | 個人學習中總結的筆記分享，涵蓋 數通網路（HCIE-R&S）、雲端運算（HCIE-Cloud）、Linux（RHCA+）、Vibe Coding、Wireshark、Markdown等領域知識。 | 微信公眾號：無足鳥ICT；微信號：wuzuniao_com |
-| 無足鳥（金，jin_com） |  |  |
 
 ### 內
 

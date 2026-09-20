@@ -21,7 +21,6 @@
 | Wuzuniao (White, bai) |  |  |
 | Wuzuniao (Red, hong) | A resource-sharing system developed with HTML5+CSS3+JavaScript+PHP+MySQL, entirely hand-crafted in the traditional way, retaining the complete thought process of the project's implementation, including design, front-end/back-end integration, debugging, and more.<br>Now no longer updated; only the source code is retained for learning programming ideas. Simple and practical. | Repository: [https://github.com/wuzuniao/hong](https://github.com/wuzuniao/hong) |
 | Wuzuniao (Blue, lan) | Sharing of notes summarized during personal study, covering knowledge in fields such as Data Communication Networks (HCIE-R&S), Cloud Computing (HCIE-Cloud), Linux (RHCA+), Vibe Coding, Wireshark, Markdown, and more. | WeChat Official Account: 无足鸟ICT; WeChat ID: wuzuniao_com |
-| Wuzuniao (Gold, jin_com) |  |  |
 
 ### Inner
 
