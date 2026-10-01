@@ -1,5 +1,12 @@
-# ===== 本地 IDE / 项目数据（不上传仓库） =====
-.codebuddy/
+# ===== 本地 IDE / AI 编程工具数据（不上传仓库；仅自动生成提交内容的规范文件纳管） =====
+.codebuddy/*
+!.codebuddy/rules/
+.codebuddy/rules/*
+!.codebuddy/rules/git-commit-message/
+.trae/*
+!.trae/rules/
+.trae/rules/*
+!.trae/rules/git-commit-message.md
 
 # ===== 操作系统 / 编辑器临时文件 =====
 .DS_Store
